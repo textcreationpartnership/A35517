@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse shewing that kings have their being and authority from God that therefore good kings when dead are lamented, that all while living are to be obeyed, and that treason and rebellion are punishable both in this and the next world : preached the Sunday following the news of the death of ... Charles the Second / by John Curtois ...</title>
+            <author>Curtois, John, 1650 or 51-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35517</idno>
+            <idno type="STC">Wing C7700</idno>
+            <idno type="STC">ESTC R17308</idno>
+            <idno type="EEBO-CITATION">12395035</idno>
+            <idno type="OCLC">ocm 12395035</idno>
+            <idno type="VID">61111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse shewing that kings have their being and authority from God that therefore good kings when dead are lamented, that all while living are to be obeyed, and that treason and rebellion are punishable both in this and the next world : preached the Sunday following the news of the death of ... Charles the Second / by John Curtois ...</title>
+                  <author>Curtois, John, 1650 or 51-1719.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jo. Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIII, 1 --  Sermons.</term>
+               <term>Divine right of kings --  Sermons.</term>
+               <term>Church and state --  England --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61111:1"/>
+            <pb facs="tcp:61111:1" rendition="simple:additions"/>
+            <p>A DISCOURSE SHEWING That KINGS have their Being and Authority from <hi>GOD,</hi> That therefore Good KINGS when Dead are lamented, That all while Living are to be Obeyed, AND That Treaſon and Rebellion are puniſhable both in this and the next World.</p>
+            <p>Preached the <hi>Sunday</hi> following the news of the Death of our late King of Bleſſed Memory, <hi>Charles</hi> the Second.</p>
+            <p>By <hi>JOHN C<g ref="char:V">Ʋ</g>RTOIS,</hi> Rector of <hi>Branſton,</hi> near <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jo. Hindmarſh,</hi> at the <hi>Golden Ball,</hi> againſt the Royal Exchange in <hi>Cornhill.</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:61111:2"/>
+            <pb facs="tcp:61111:2"/>
+            <head>TO Sir <hi>H<g ref="char:V">Ʋ</g>MPHREY WINCH,</hi> BARONET.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Preſent here a Diſcourſe to you which I preach'd to my Pariſh the Sunday after we had heard of the Death of our late Sovereign: By which you may ſee how faithfull I am to my Truſt, in inſtructing them to give unto <hi>Caeſar</hi> the things that are <hi>Caeſar</hi>'s, as unto God the things that are God's. And I think it was receiv'd by them with that reſpect and affection, that is due from all honeſt and good men to a Diſcourſe of this nature. A while after I had the opportunity to Preach it in the Cathedral at <hi>Lincoln,</hi> where it was kindly reſented by many Loyal perſons, of whom the number is very great in that City. But there were a few Heterogeneous men crept in among them that were as much diſguſted at it, and no ſooner out of the Church, but they fell to calumniate and belye me, perverting my intentions and laying to my charge things that I never ſaid: So that to vindicate my ſelf from the Aſperſions of theſe men I have made the Sermon publick as you ſee it, after the ſame Copy by which I ſpoke it. It will, I preſume, endure ſuch a publick Teſt: For upon a ſtrict
+<pb facs="tcp:61111:3"/>review I find nothing there but what is agreeable to the Doctrine of our Church, and the late General ac<g ref="char:EOLhyphen"/>knowledgments of our Loyal Nobility, Gentry and Clergy in their Addreſſes to His Sacred Majeſty. And therefore I queſtion not your Favourable acceptance of it in particular. As it hath, ſo it needs, nothing elſe to commend it to you, but the Loyalty of it, which, it is Argument enough that you approve of, in all its Appearances, becauſe at the Critical time of Trial you abhor'd and withſtood the <g ref="char:V">Ʋ</g>nnatural and <g ref="char:V">Ʋ</g>nchriſtian Bill of Excluſion; and the ſame Party, which, in thoſe days of iniquity, would have Excluded His Sacred Majeſty from his three Kingdoms, would have alſo excluded you from the Parliament.</p>
+            <p>That all future Parliaments may conſiſt of ſuch worthy Members as you, ſuch as will diſtinguiſh betwixt Religion and faction, legality and injuſtice, ſuch as will be as True to the Church and State as the King is pleaſed to be Gratious to them, is the earneſt prayer of,</p>
+            <closer>
+               <salute>Honoured Sir,</salute>
+               <signed>Your moſt obliged and moſt humble Servant, <hi>JOHN CURTOIS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:61111:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>ROM. XIII. 1.</hi>
+               </bibl>
+               <q>—There is no Power but of God, the Powers that be are ordained of God.</q>
+            </epigraph>
+            <p>HAVING receiv'd the ſad tidings of the Death of our moſt Gratious Sove<g ref="char:EOLhyphen"/>reign <hi>Charles</hi> the Second, I think it re<g ref="char:EOLhyphen"/>quiſite to ſay ſomething, as early as I can, that will be ſuitable to it: And therefore I pitch upon this Subject as proper and ſeaſonable to exerciſe your Devotions at this time.</p>
+            <p>In theſe words Saint <hi>Paul</hi> plainly teacheth this Doctrine.</p>
+            <p>That all Kings or Supreme Governours of Nations are Conſtituted of Almighty God, and Rule ſolely by his Divine pleaſure and Authority.</p>
+            <p>I ſhall clear this unto you, and then draw an infe<g ref="char:EOLhyphen"/>rence or two from it.</p>
+            <p>Firſt, This was eminently true of the ſeveral Go<g ref="char:EOLhyphen"/>vernours of the <hi>Jews.</hi> They had all particular and apparent Signatures and Impreſſes of the Image and Authority of God upon them. For when from all the Nations of the World God had ſet apart the <hi>Jews</hi> to be the Object of his more immediate care, he is ſaid to have ſent <hi>Moſes</hi> to <hi>be a Ruler and Deliverer unto them by the hand of the Angel which appeared to
+<pb n="2" facs="tcp:61111:4"/>him in the Buſh:</hi> By reaſon of which power ſo ſignally conferr'd by God, he was intituled King <hi>in Jeſhurun when the Heads of the People and the Tribes of Iſrael were gather'd together.</hi> And when God was pleaſed to remove his ſervant <hi>Moſes</hi> to a Crown of Glory in Heaven, he nominated <hi>Joſhuah</hi> to ſucceed him in the ſame Authority. And after the removal of <hi>Joſhuah,</hi> he <hi>raiſed up Judges to them,</hi> men of ab<g ref="char:EOLhyphen"/>ſolute and uncontrollable power for the time they continued, inferiour to Kings onely in the title. And laſtly, to oblige them with variety of diſpenſations, at their own deſire and according to a former promiſe of making them every way as Glorious as the Nations round about them, he gave them many Governours with the Title of Kings too, to <hi>go out before them and fight their battels.</hi>
+            </p>
+            <p>But although the Kingdom of <hi>Iſrael</hi> might ſeem here to have had a more ſignal deſignation and her Governours a more particular commiſſion from God than any other, yet</p>
+            <p>Secondly, the Gentile Rulers were as truly the Miniſters and Vicegerents of God in their reſpective Dominions though not ſo remarkably. Thus <hi>Syracides</hi> ſaith,
+<note place="margin">Eccl. 17.17.</note> 
+               <hi>in the diviſion of the Nations of the whole Earth, God ſet a Ruler over every people, but Iſrael is the Lord's portion.</hi> And the ſame is ſignified by the men whom we are certain God inſpir'd to reveal the truth.</p>
+            <p>The Prophet <hi>David,</hi> ſpeaking of Rulers in General calleth them <hi>Gods and the children of the moſt High.</hi>
+               <note place="margin">Pſal. 82.6.</note>
+            </p>
+            <p>And that of <hi>Solomon</hi> is as General.
+<note place="margin">Prov. 8.15, 16.</note> 
+               <hi>By me Kings
+<pb n="3" facs="tcp:61111:4"/>Reign and Princes decree Juſtice, By me Princes Rule and Nobles even all the Judges of the Earth.</hi>
+            </p>
+            <p>And particularly, in the Prophecy of <hi>Iſaiah,
+<note place="margin">Iſa. 44.28, 45, 1.</note> Cyrus</hi> the King of <hi>Perſia</hi> is ſtyled the <hi>Shepherd</hi> and the <hi>A<g ref="char:EOLhyphen"/>nointed of the Lord.</hi> And in the Prophecy of <hi>Jere<g ref="char:EOLhyphen"/>miah, Nebuchadnezzar,</hi>
+               <note place="margin">Jer. 27.6.</note> King of <hi>Babylon</hi> is ſtyled <hi>his Servant.</hi> And the Prophet <hi>Daniel</hi> telleth that King expreſly,
+<note place="margin">Dan. 2.37.</note> 
+               <hi>The God of Heaven hath given thee a King<g ref="char:EOLhyphen"/>dom, Power and Strength and Glory.</hi>
+            </p>
+            <p>The Son of God himſelf ſaid as much,
+<note place="margin">John 19.11.</note> when he confeſſed that <hi>Power</hi> by which <hi>Pilate</hi> acted under the Roman Emperour to <hi>be given him from above.</hi>
+            </p>
+            <p>And ſo his Apoſtle in the Text in the Reign of a Heathen ſaith, <hi>There is no Power but of God, the Powers that be are ordained of God.</hi>
+            </p>
+            <p>Accordingly the firſt Chriſtians taught.
+<note place="margin">
+                  <hi>L.</hi> 5. <hi>Contr. Har.</hi>
+               </note> 
+               <hi>Irenaeus</hi> ſaith, that by whoſe appointment men are born by his appointment Princes are conſtituted.
+<note place="margin">
+                  <hi>Apol. c.</hi> 30.</note> 
+               <hi>Tertullian</hi> ſaith, that they have their Power thence whence they have their Spirit. So <hi>Optatus,</hi>
+               <note place="margin">
+                  <hi>lib.</hi> 3.</note> There is no perſon Superiour to the Emperour but God onely, who or<g ref="char:EOLhyphen"/>dained the Emperour.</p>
+            <p>Nay, the wiſer Heathens that had any ſenſe of Reli<g ref="char:EOLhyphen"/>gion had the ſame ſentiments of the Divinity of Re<g ref="char:EOLhyphen"/>gal Power. This is the meaning of that Benediction of the Queen of <hi>Sheba,</hi> when ſhe was full of Admiration at the Wiſedom of <hi>Solomon,
+<note place="margin">1 King. 10.9.</note> Bleſſed be the Lord thy God which delighted in thee to ſet thee on the Throne of Iſrael: becauſe the Lord loved Iſrael for ever, therefore made he thee King to doe Judgment and Juſtice.</hi>
+            </p>
+            <p>The Romans in their <hi>Lex Julia</hi> adjudged the ſame puniſhment to Treaſon as to Sacrilege,
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lpian l.</hi> 7. <hi>De Off. Pro<g ref="char:EOLhyphen"/>conſ. in l.</hi> 1. <hi>ff. ad Leg. Jul. maj.</hi>
+               </note> as looking upon an injury done to their Prince, to be an injury alſo to
+<pb n="4" facs="tcp:61111:5"/>Gods;
+<note place="margin">
+                  <hi>Hiſt. Hea. Gods.</hi> l. 3. p. 187.</note> whoſe place of power upon Earth the Prince ſupplied.
+<q>The Kings of <hi>Egypt</hi> had Aſps uſually repre<g ref="char:EOLhyphen"/>ſented upon their Crowns, to expreſs the Holyneſs of their perſons, whom none ought to diſhonour or injure without a ſignal puniſhment; as being the moſt Sacred Images and Lieutenants of God upon Earth.</q> So firmly did the better ſort of Heathens, who be<g ref="char:EOLhyphen"/>lieved an inviſible over-ruling Being, believe likewiſe the power of Kings to be derived from it.</p>
+            <p>Now, it does not invalidate this Truth. 1. That ſome Princes exerciſe their power <hi>Tyrannically</hi> and <hi>Rule</hi> wickedly, oppreſſing and murthering their Sub<g ref="char:EOLhyphen"/>jects. For the power is nevertheleſs of God though it be abuſed and perverted by men. As it is in the caſe of Epiſcopacy, the ſpiritual power, by which the Biſhops govern the Church, muſt be acknowledged to be received from Chriſt, though the Biſhop of <hi>Rome Tyrannize</hi> in the exerciſe of it: So it is in the caſe of Kingſhip and Regality, God muſt be own'd to have conveyed and conſigned over the Temporal Power to all Princes though the Grand Seigniour of the <hi>Turks,</hi> and others, play the Tyrants within their Dominions. And yet we may not here conceive God to be Authour of the <hi>wickedneſs,</hi> as of the <hi>Power,</hi> for it is the <hi>Power</hi> onely not the <hi>abuſe</hi> of it that is from God: The <hi>latter</hi> proceeds from the Prince's evil heart alone. God maketh him a Prince, and he, through the corruption of his Nature and the mali<g ref="char:EOLhyphen"/>tious Temptation of the Devil, finds out many in<g ref="char:EOLhyphen"/>ventions to doe wickedly. The Kingly Power as other good and perfect Gifts do, deſcendeth from God, although they may be all ſome time or other abus'd by evil inſtruments and to evil ends and purpoſes.
+<pb n="5" facs="tcp:61111:5"/>Our Saviour intimated this in granting <hi>Pilate</hi>'s power to be from Heaven, by whom he knew he ſhould be ſentenced to dye as a Malefactour. St. <hi>Paul</hi> did the ſame, ſpeaking the Text in the days of <hi>Claudius</hi> or <hi>Nero,</hi> two of the worſt of men and the greateſt Ty<g ref="char:EOLhyphen"/>rants that ever were. Neither 2. doth it invalidate this Truth that ſome Princes come to this Power by <hi>Conqueſt,</hi> ſome by <hi>Election,</hi> and others by <hi>Inheritance.</hi> For theſe are but ſeveral ways and means of Convey<g ref="char:EOLhyphen"/>ance and Inveſtiture; they are but as Conduit Pipes to carry the Water from the Fountain to ſeparate places: Still the Power is deriv'd from God to the Prince, by which ſoever of theſe means he be inveſted with it. 1. Although he fight for it, and by the <hi>Sword,</hi> ma<g ref="char:EOLhyphen"/>keth his way to the <hi>Throne,</hi> yet when he is placed there, he ſitteth as <hi>God's Vicegerent,</hi> having no <hi>Super<g ref="char:EOLhyphen"/>intendent</hi> but <hi>God:</hi> The <hi>People</hi> are all ſubjected to him by right <hi>of Conqueſt.</hi>
+            </p>
+            <p>Or ſay it be 2. By <hi>Election,</hi> by the <hi>Votes</hi> and <hi>Conſent</hi> of the <hi>People</hi> that he is ſeated on the Throne, yet being once there, he becomes their Sovereign Lord, Ruling by a Power Superiour to theirs. For the Power is God's, not the Peoples: They are onely God's inſtruments in conferring the Regalia's; and when the Ceremony is over, have no more to doe, but to <hi>obey.</hi>
+            </p>
+            <p>And if it hold true in <hi>Conquer'd</hi> and <hi>Elective</hi> King<g ref="char:EOLhyphen"/>doms then how much rather 3.
+<note place="margin">Deut. 21.15.</note> In all thoſe Nations where the Crowns are <hi>Hereditary;</hi> the way which God appointed in <hi>Iſrael</hi> before their ſettlement in <hi>Canaan,</hi> and after it, did ſo ſignally bleſs in a nume<g ref="char:EOLhyphen"/>rous Succeſſion of Heirs.</p>
+            <p>In all <hi>Hereditary</hi> Kingdoms the people have no<g ref="char:EOLhyphen"/>thing
+<pb n="6" facs="tcp:61111:6"/>to doe but, upon the Death of their King, im<g ref="char:EOLhyphen"/>mediately to obey the next Heir Apparent, and hum<g ref="char:EOLhyphen"/>bly to recognize him for their Sovereign. Their <hi>Ap<g ref="char:EOLhyphen"/>probation</hi> or <hi>Conſent</hi> here is of no ſignification; for he is born to <hi>Reign</hi> over them, and whether they will or no, doth rightfully inherit that <hi>Power</hi> which God hath entailed upon his Family.</p>
+            <p>And (to ſpeak ſomething here particularly of our own Nation) thus it is, thanks be to God, in the Kingdom of <hi>England.</hi> (And we have reaſon to thank God for it, becauſe we are hereby free from many miſchiefs which unavoidably attend the change of Kings upon <hi>Conqueſts</hi> or <hi>Popular Elections.</hi>)</p>
+            <p>Here God hath, for many Ages paſt, by wonder<g ref="char:EOLhyphen"/>full Providences made known the Family that is to Govern us, ſo certainly and ſo apparently, that none but he that deſires to be a Rebel to God and the King will ever diſpute the Title. Whence it is become a Maxime in our Law that the King never dieth. And that nothing is to be aſſented to in Parliament which tendeth to the diſinheriſon of the Crown. Hence alſo we find it ever ſubſcribed to thoſe Enſigns of Royalty, which deſcend perpetually with the Crown, <hi>Dieu Et Mon Droit,</hi> God and my Right. So in all publick Edicts we find this inſerted, <hi>Dei Gratiâ Rex,</hi> By the Grace of God King of <hi>England:</hi> And upon Twelve ſeveral Feſtival days in the year, our King offereth upon the Altar a ſum of Gold to God, <hi>in ſignum ſpecialis Dominii,</hi> as a publick Acknowledge<g ref="char:EOLhyphen"/>ment That by his Grace alone he is King. And this every man of us ſolemnly aſſenteth to, that taketh the Oaths of Allegiance and Supremacy. "In the Oath of Allegiance, we promiſe to bear Faith and True
+<pb n="7" facs="tcp:61111:6"/>
+               <q>Allegiance to his Majeſty his Heirs and Succeſſours. In the Oath of Supremacy, we firſt utterly teſtifie and declare that the King's Highneſs is the onely Supreme Governour in this Realm; And do there<g ref="char:EOLhyphen"/>fore promiſe that we will bear Faith and True Al<g ref="char:EOLhyphen"/>legiance to the King's Highneſs, his Heirs, and Law<g ref="char:EOLhyphen"/>full Succeſſours, and will to our power aſſiſt and defend all Juriſdictions, Privileges, Preheminences and Authorities granted or belonging to the King's Highneſs, his Heirs and Succeſſours, or united and annext to the Imperial Crown of this Realm.</q>
+            </p>
+            <p>So that by the way we may wonder at the great impiety of our late pretending Patriots, who with ſo much heat and boidneſs Voted the Excluſion of the Rightfull Heir, in plam contradiction not onely to their <hi>Natural</hi> Allegiance but alſo to their <hi>Promiſes</hi> and <hi>Declarations</hi> ſolemnly made by theſe <hi>Oaths.</hi> They ought, I think, to ſeek God and the King's Pardon, or a publick Repentance: And when they are ſo ingenuous, and not before, we may in Charity hope, that they will be better Chriſtians and better Subjects for the future.</p>
+            <p>But, to convince you more fully that our King, by the unalterable Right of Inheritance Succeeding to the Crown, Raigneth by God, and him onely, let us a little diſtinctly conſider, that there is neither perſon or thing within his Dominions but what are ſubject to him, as by the ordinance of God, and right reaſon, ſo likewiſe by our own publick conceſſions. The <hi>People</hi> are all ſo, and ſo are the <hi>Laws.</hi> The <hi>People</hi> of this Nation whether <hi>ſingly</hi> or <hi>Repreſentatively</hi> con<g ref="char:EOLhyphen"/>ſidered are <hi>ſubject</hi> to the <hi>King.</hi>
+            </p>
+            <p>If we look upon them in their <hi>ſingle</hi> perſons, which
+<pb n="8" facs="tcp:61111:7"/>of them can pretend equality with or ſuperiority to his Prince? Who indeed but <hi>he</hi> that is as mad as the man in <hi>Bedlam,</hi> that vainly imagins himſelf to be a King.</p>
+            <p>Or look upon them <hi>Repreſentatively,</hi> in the <hi>Church</hi> or in the <hi>Parliament,</hi> in both they are <hi>ſubject</hi> to him, firſt in the <hi>Church.</hi>
+            </p>
+            <p>The Church as humbly and as expreſly as ſhe can acknowledgeth the King's <hi>Supremacy</hi> and her <hi>own ſub<g ref="char:EOLhyphen"/>jection,</hi> In her 37th Article ſhe ſaith.
+<q>The King's Majeſty hath the chief Power in his Realm of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and other his Dominions, unto whom the chief Government of all Eſtates of this Realm whether they be Eccleſiaſtical or Civil, in all Cauſes doth appertain, and is not nor ought to be ſubject to any Foreign Juriſdiction. To which ſhe addeth, Whereas we attribute to the King's Majeſty the chief Government, by which Titles we find the minds of ſome ſlanderous folks to be offended, we give not to our Princes the miniſtering either of God's Word or of the Sacraments, but that onely Prerogative which we ſee to have been given always to all Godly Princes in holy Scriptures by God him<g ref="char:EOLhyphen"/>ſelf, that is, that they ſhould rule all Eſtates and de<g ref="char:EOLhyphen"/>grees committed to their charge by God whether they be Eccleſiaſtical or Temporal, and reſtrain with the Civil Sword the ſtubborn and evil doers.</q>
+            </p>
+            <p>In the 3 part of her Homilie of Obedience ſhe ſaith,
+<q>This is God's Ordinance God's Commandments and God's Holy Will that the whole Body of every Realm and all the Members and parts of the ſame ſhall be ſubject to their Head their King.</q>
+            </p>
+            <p>The like is ſaid by her in the 5th part of her Ho<g ref="char:EOLhyphen"/>milie
+<pb n="9" facs="tcp:61111:7"/>againſt Rebellion.
+<q>The holy Scriptures do teach moſt expreſly that our Saviour Chriſt himſelf and his Apoſtles St. <hi>Paul,</hi> St. <hi>Peter</hi> with others were unto the Magiſtrates and Higher Powers, which Rul'd upon their being upon Earth both obe<g ref="char:EOLhyphen"/>dient themſelves, and did alſo diligently and ear<g ref="char:EOLhyphen"/>neſtly exhort all other Chriſtians to the like obedi<g ref="char:EOLhyphen"/>ence unto their Princes and Governours, whereby it is evident that men of the Clergy and Eccleſi<g ref="char:EOLhyphen"/>aſtical Miniſters as their Succeſſours, ought both themſelves ſpecially and before others to be obedient unto their Princes and alſo to exhort all others unto the ſame. Our Saviour Chriſt likewiſe teaching by his Doctrine that his Kingdom was not of this World did by his example in fleeing from thoſe that would have made him King confirm the ſame: Expreſly alſo forbidding his Apoſtles and by them the whole Clergy all Princely Dominion over People and Na<g ref="char:EOLhyphen"/>tions; and he and his holy Apoſtles likewiſe, name<g ref="char:EOLhyphen"/>ly <hi>Peter</hi> and <hi>Paul</hi> did forbid unto all Eccleſiaſtical Miniſters Dominion over the Church of Chriſt.</q>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>See Can.</hi> 36.</note> So in her 55th Canon ſhe requires her Preachers before their
+<q>Sermons to pray for the King's Moſt Excellent Majeſty as Defender of the Faith and Su<g ref="char:EOLhyphen"/>preme Governour within this Realm and all other his Dominions and Countries over all perſons in all Cauſes as well Eccleſiaſtical as Civil.</q>
+            </p>
+            <p>And as this Supremacy is now acknowledged,
+<note place="margin">
+                  <hi>See</hi> Ful<g ref="char:EOLhyphen"/>wood's <hi>Roma Ruit.</hi> c. 9.</note> ſo it has been granted by the Church of <hi>England</hi> to her King ever ſince ſhe was a Church, except for thoſe ſmall ſpaces of time that the Pope uſurp'd it after the <hi>Norman</hi> Conqueſt. But in <hi>Henry</hi> VIII. Reign it was fully reſum'd and with the concurrence of all the
+<pb n="10" facs="tcp:61111:8"/>Eſtates in Parliament reſettled in the King. And upon this principle our Reformation from all the other Po<g ref="char:EOLhyphen"/>piſh corruptions was founded, <hi>viz.</hi> that the King had the Supreme Power in the Nation, and by that might proteſt againſt and reform all the Papal Abuſes which had corrupted the Church and Kingdom. And there<g ref="char:EOLhyphen"/>fore thoſe Sects and Parties of men amongſt us, the Presbyterians, Independents, Anabaptiſts, Quakers, <hi>&amp;c.</hi> are not to be accounted of our Church becauſe they deny the King's Supremacy. But are Retainers ſtill to the Church of <hi>Rome,</hi> being not yet reform'd from this Romiſh corruption, of ſubjecting the <hi>King</hi> to the <hi>Church.</hi> Next, as the <hi>Church</hi> is <hi>ſubject</hi> to the <hi>King,</hi> ſo is the <hi>Parliament.</hi> The Parliament is called by the King's Writ. And when they meet they own his Supremacy and promiſe Allegiance to him upon Oath. During their Seſſion, they can make no Laws by them<g ref="char:EOLhyphen"/>ſelves, but onely adviſe, propound and petition what may be for the good of the Nation: And therefore are called the <hi>Great Council</hi> of it, conſiſting of Three Eſtates, The <hi>Lords Spiritual</hi> and <hi>Temporal</hi> and <hi>The Commons;</hi> the latter of which is ſaid not to have been before the Reign of <hi>Henry</hi> III. who required their preſence to Stem the Tide of his Barons Rebellion. And although ſince through a long Tract of Time and the conceſſions of ſome Kings they have a claim to certain privileges yet ſure not to that of Supremacy or Coordination with their Prince. For <hi>any</hi> or <hi>all</hi> of them to ſay they are <hi>above</hi> or <hi>equal</hi> with him is a contradiction as well in <hi>Reaſon</hi> as <hi>Terms.</hi> For beſides what is urg'd before, they may be adjourn'd, remov'd prorogu'd, or diſſolv'd as the King pleaſeth. They live and die, are and are not by one breath of his mouth.
+<pb n="11" facs="tcp:61111:8"/>Whence he is ſaid to be <hi>Principium, Caput &amp; Finis Par<g ref="char:EOLhyphen"/>liamenti.</hi> And to put all out of doubt of it, ſeveral Parliaments have in ſeveral Acts and Statutes acknow<g ref="char:EOLhyphen"/>ledged the <hi>King's Supremacy</hi> and <hi>Sovereignty</hi> over them addreſſing to him under the Title of our <hi>Gratious Sovereign,</hi> and our <hi>Dread Sovereign Lord the King,</hi> His <hi>Moſt Excellent Majeſty, &amp;c.</hi> calling themſelves his moſt <hi>dutifull</hi> and <hi>Loyal ſubjects.</hi> None ever de<g ref="char:EOLhyphen"/>nied it but the Long Parliament under King <hi>Charles</hi> I. which was therefore ſince by another declared to be a <hi>Rebel Parliament.</hi>
+            </p>
+            <p>Laſtly, the King is not <hi>ſubject</hi> to the Coercive Power of the Law. There is no <hi>Law</hi> made but with His <hi>Royal Aſſent:</hi> And when the <hi>Law</hi> is in <hi>force</hi> it can have no <hi>power</hi> over him, becauſe the <hi>Authority</hi> it hath, it receiveth from him both as to the <hi>Being</hi> and <hi>Execution</hi> of it. He can in <hi>dubious</hi> caſes <hi>interpret</hi> the <hi>meaning,</hi> in ſevere <hi>caſes</hi> remit the <hi>rigour,</hi> and at any time ſuſpend the <hi>penalty</hi> of the <hi>Law.</hi> All Suits, all Proceſſes at Law, all judicial proceedings whatſoever are from him. All other our Magiſtrates Act by <hi>Com<g ref="char:EOLhyphen"/>miſſion</hi> from him; and when he thinks good to recall his <hi>Commiſſions,</hi> are no more than <hi>private</hi> perſons, without <hi>rule,</hi> without <hi>power.</hi> Hence was occaſioned that Loyal Motto upon the Rings of ſome of our Late created Serjeants at the Law <hi>A Deo Rex, à Rege Lex: i. e.</hi> the Power the King hath is from God, the Power the Law hath is from the King.</p>
+            <p>All this ſure ſpeaketh him not ſubject to the Coer<g ref="char:EOLhyphen"/>cive Power of the <hi>Law.</hi> And what? Although it be confeſs'd that at his Coronation he taketh an Oath <hi>before</hi> the <hi>People</hi> to <hi>Govern</hi> by the <hi>Law:</hi> Yet is he
+<pb n="12" facs="tcp:61111:9"/>not therefore Coordinate with or inferiour to the people or the Law, becauſe it giveth him no Right or Title to the Government: The Right and Title he hath are Antecedent. Both the <hi>Crowning</hi> and <hi>Procla<g ref="char:EOLhyphen"/>ming</hi> of him are onely <hi>Publick Declarations</hi> that he is by Birth-Right in Lawfull Poſſeſſion of it.</p>
+            <p>And if he ſhould not obſerve his Coronation Oath, who ſhall ſay to him thou art <hi>wicked</hi> and <hi>ungodly?</hi> What Law is there that can reach his Sacred Perſon? Or what particular man or company of men can exhibit a Commiſſion from God to judge and condemn him?</p>
+            <p>But I ſhall proſecute this Argument no farther. Enough is ſaid to convince any reaſonable man.</p>
+            <p>Thus I have made it clear to you that all Kings or other Supreme Governours of Nations are Ordained of God, and owe their Sovereignty to God and God onely, by what ways or methods ſoever they be in<g ref="char:EOLhyphen"/>veſted with it, whether by Conqueſt, Election or Inheritance. And that the King of <hi>England</hi> in parti<g ref="char:EOLhyphen"/>cular, who Reigneth over us by the indiſputable Right of Inheritance, is as truly God's Miniſter and Vice<g ref="char:EOLhyphen"/>gerent as any other Prince can be, knowing no Supe<g ref="char:EOLhyphen"/>riour but God.</p>
+            <p>Let us now draw an Inference or two from the pre<g ref="char:EOLhyphen"/>miſſes.</p>
+            <p>Firſt, Kings having their Being from God, when God takes away from a Nation a <hi>Good</hi> and <hi>Gratious</hi> King, one that Rules as well after his <hi>Example</hi> and <hi>Will,</hi> as by his <hi>Power,</hi> it becomes matter of publick <hi>mourning</hi> and <hi>lamentation.</hi>
+            </p>
+            <p>
+               <hi>Cruelty</hi> and <hi>Oppreſſion</hi> are things ſo odious in their Nature, and ſo miſchievous in their conſequences,
+<pb n="13" facs="tcp:61111:9"/>(being as prolifick of evils as <hi>Pandora</hi>'s Box, Murther, Depopulation, and a long, <hi>&amp;c.</hi> attending) that a Tyran<g ref="char:EOLhyphen"/>nical Prince ſoon groweth uneaſie to his people; the men as wicked as himſelf are weary of him, impatient for his death, curſe and abhor him, wiſh and conſpire his ruine. And though the good man dares not doe this, becauſe his Religion will not ſuffer it, yet upon his fall he lifts up his eyes to Heaven and bleſſeth God for the deliverance whilſt he hates the Treaſon. Whereas on the contrary, Love and Clemency, and all the other Qualities of a Godlike. Prince are ſo amiable and at<g ref="char:EOLhyphen"/>tractive, ſo productive of publick benefits, peace and plenty and every thing that conduces to make a Nation happy, that when theſe are manifeſted, the people re<g ref="char:EOLhyphen"/>joyce in their Prince, while Living, as the <hi>Light of their</hi> eyes and the <hi>Breath of their Noſtrils;</hi> they love him as their <hi>Father,</hi> and depend upon him as their <hi>Saviour.</hi> The profane equally with the pious are ready to riſe up and call him <hi>bleſſed;</hi> to eſteem his Life worth ten thouſand of their own and to offer up themſelves and all they have in defence of his Royal Perſon. But when God, who gave them this bleſſing from Hea<g ref="char:EOLhyphen"/>ven, is pleas'd to call it thither again, than theſe <hi>Great Rejoycings</hi> are immediately converetd into <hi>ſorrows as exceſſive.</hi> They look upon their Prince indeed to be <hi>happy,</hi> but upon themſelves to be <hi>forlorn</hi> and <hi>miſerable.</hi> And therefore as <hi>Rachel,</hi> when ſhe had loſt the Darlings of her Affections, they grieve and will not be comforted, till Nature hath had her Fill of Grief, or the ſorrow be in ſome good meaſure proportionate to the loſs.</p>
+            <p>This hath been the general ſenſe of the World from the beginning of it. The antient Jews and Chriſtians and Heathens alſo give Teſtimony to it.</p>
+            <p>
+               <pb n="14" facs="tcp:61111:10"/>When <hi>Moſes</hi> died <hi>the Children of Iſrael wept for him in the plains of Moab thirty days.</hi>
+               <note place="margin">Deut. 34.</note> The viſible aſſurance they had of the continuance of God's ſpe<g ref="char:EOLhyphen"/>cial care over them, the Divine Accompliſhments of <hi>Joſhuah</hi> his Succeſſour, their earneſt expectations of <hi>Canaan,</hi> could not divert that mighty ſorrow which they had conceived at the death of this excellent Prince, who had preſerv'd and brought them through the perils of the <hi>Wilderneſs</hi> to the confines of the <hi>promis'd</hi> Land.</p>
+            <p>So at the death of their King <hi>Joſiah all Judah and Jeruſalem mourned.
+<note place="margin">2 Chron. 35.2.</note> And Jerimiah lamented for Jo<g ref="char:EOLhyphen"/>ſiah, and all the ſinging men and ſinging women ſpake of Joſiah in their lamentations, and made them an or<g ref="char:EOLhyphen"/>dinance in Iſrael, and behold they are written in their lamentations.</hi> He had purged their Religion from all Heatheniſh ſuperſtitions, he had repair'd their Tem<g ref="char:EOLhyphen"/>ple, and reſtor'd the Worſhip of it to its primitive purity, and ſo had endear'd them to God and himſelf. And they thought in return, they could do nothing too much to perpetuate the memory of his Goodneſs: And therefore, beſides their mournfull Elegies at his Funeral, they tranſmitted their Griefs to poſterity in a Book of Lamentations.</p>
+            <p>Upon the death of <hi>Conſtantine</hi> the Great in <hi>Nicome<g ref="char:EOLhyphen"/>dia,</hi>
+               <note place="margin">
+                  <hi>Zuing. Theatr.</hi> Vol. 1. <hi>l.</hi> 1. p. 97.</note> the firſt Chriſtian Emperour (who had not onely embrac'd Chriſtianity himſelf but had induſtriouſly promoted it throughout the Empire) his Souldiers were ſo overcome with ſorrow, that they tore their Cloaths, caſt themſelves proſtrate upon the ground, daſhing their Heads againſt the wall, omitting no out<g ref="char:EOLhyphen"/>ward expreſſion of Grief that a ſorrowfull heart could dictate, crying out in dolefull Accents that they had
+<pb n="15" facs="tcp:61111:10"/>loſt a Protectour, a Guardian and a Father. The Citizens, at the ſame time, as men out of their wits, ran howling about the ſtreets, not able to ſuppreſs their Grief within: Others, as men amaz'd, walk'd ſilently about with their Heads hanging down; all complaining that they were no longer poſſeſſours of the comforts of this life. And anſwerable to this were the ſorrows of the Senate and People of <hi>Rome</hi> for his death. At the Relation of it, their Baths were ſhut up, their Markets and Plays unfrequented, and their publick ſports and pleaſures and days of Feſtivity neglected. They could find no Alleviation to their Grief, but by painting him above the Firmamental Regions partaking with other bleſſed Souls of Heavenly Glory, and by petitioning his Son <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> that they might have the Honour of interring his Remains at <hi>Rome.</hi>
+            </p>
+            <p>And the like were the Reſentments of the Roman Senate for <hi>Titus Veſpaſian,</hi>
+               <note place="margin">
+                  <hi>Id.</hi> p. 98.</note> one of their Heathen Em<g ref="char:EOLhyphen"/>perours (a Prince ſo univerſally fam'd for his Vertues, that his Motto was <hi>Princeps bonus Orbis amor</hi>) upon the news of his death they ruſhed into the <hi>Curia,</hi> and there bewail'd their loſs of him in <hi>Panegyrical</hi> Ora<g ref="char:EOLhyphen"/>tions, and could not be ſatisfied till they had decreed him the honour of an Apotheoſis, till they had Deiſy'd, and plac'd him amongſt the reſt of their Supernal Gods, whence they might hope for ſome ſarther Ex<g ref="char:EOLhyphen"/>periments of his favour and protection.</p>
+            <p>To name no more, this is a Truth that our own experience teſtifies. How grievous hath the Death of our Late Sovereign been to every one of us? How full of ſurprize and ſadneſs was the news of it? At its firſt Reception we look'd as half Dead our ſelves,
+<pb n="16" facs="tcp:61111:11"/>and ſtood ſtaring upon one another as men at our wits end: Every eye was ready to drop a tear and every heart to breath a ſigh. I think I may truly ſay, never was King of <hi>England</hi> ſo generally and ſo hearti<g ref="char:EOLhyphen"/>ly lamented. And is was no more than was due to a Prince ſo extraordinary Good as he was, a Prince that exceeded all others in a benign and gratious Govern<g ref="char:EOLhyphen"/>ment; a Prince (to ſay all of him we can in a little) than whom we cannot expect, we cannot wiſh, we cannot pray for a better. And I queſtion not but his Me<g ref="char:EOLhyphen"/>mory will be ever pretious with us, and we ſhall never mention him now dead but with that reſpect and honour that we ſerv'd him when alive. Onely, here, I would adviſe that we reflect not on him as men without hope; but as we look with an eye of ſorrow back upon him, ſo that with an eye of joy we would look forward upon his Succeſſour, our preſent King, <hi>James</hi> II. by a true Lineal deſcent ſea<g ref="char:EOLhyphen"/>ted upon the Throne of his Fathers; that we would hope from him all the generous Actions of his An<g ref="char:EOLhyphen"/>ceſtours. We ſhall be very ungratefull and unworthy if we doe otherwiſe: For this moſt Serene Prince hath more than once expos'd his Life to the mouth of the devouring Cannon, and the as mercileſs Sea, for our preſervation. And ſince the Death of his Royal Bro<g ref="char:EOLhyphen"/>ther hath been pleas'd to give his Royal Word to preſerve this Government both in Church and State as 'tis now by Law Eſtabliſhed. A diſtruſt of that would be an odious ſuſpicion of his want of the ſenſe of Con<g ref="char:EOLhyphen"/>ſcience and Honour. It would be likewiſe an impious diſtruſt of God's Good Providence over us. For we are told by <hi>Solomon,
+<note place="margin">Prov. 21.1.</note> The King's Heart is in the Hand of the Lord as the Rivers of Water: He turneth it
+<pb n="17" facs="tcp:61111:11"/>whetherſoever he will.</hi> So much to our firſt Inference.</p>
+            <p>Secondly, Kings having their Being and Authority from God, are to be obey'd. So St. <hi>Paul</hi> argues in this firſt verſe of his 13th <hi>Chap.</hi> to the Romans, <hi>Let every Soul be ſubject to the Higher Powers; for there is not Power but of God, the Powers that be are or<g ref="char:EOLhyphen"/>dained of God.</hi> And the like at the 4th verſe, <hi>&amp;c. He is the Miniſter of God, a Revenger to execute wrath upon him that doth evil; wherefore ye muſt needs be ſubject, not onely for wrath, but alſo for Conſcience ſake: For, for this cauſe pay ye Tribute alſo, for they are God's Miniſters attending continually on this very thing. Render therefore to all their Dues; Tribute to whom Tribute is due, Cuſtome to whom Cuſtome, Fear to whom Fear, Honour to whom Honour.</hi>
+            </p>
+            <p>So then, every ſubject is to pay Obedience to his Prince, as being the Miniſter of God. No man, no order of men can plead exemption or diſpenſation from it. For the words are <hi>general</hi> and <hi>indefinite,</hi> and being of a <hi>moral</hi> nature comprehend <hi>all Potentates</hi> and <hi>all Subjects</hi> in <hi>all times</hi> and <hi>places.</hi> This is the ſenſe of the moſt ancient and learned Commentatours upon the place.</p>
+            <p>And according to them that of St. <hi>Peter</hi> in his 1 Epiſtle and 2 Chap. Hath the ſame extent and meaning, where he bids, <hi>Submit your ſelves to every ordinance of man for the Lord's ſake, whether it be to the King as Supreme, or unto Governours, as unto them that are ſent by him for the puniſhment of evil-doers and for the praiſe of them that doe well. For ſo is the will of God that with well-doeing ye may put to ſilence the ignorance of fooliſh men.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:61111:12"/>But theſe Apoſtolical precepts muſt be underſtood to extend no farther than to things warrantable by a previous Law of God: For if a King command or enact any thing that is contrary to what God hath already declar'd to be his will, therein the Subject is to not yield obedience to him. The reaſon of it is, becauſe God is Superiour to the King, and all the Au<g ref="char:EOLhyphen"/>thority the King hath, he hath received from God: And therefore no good Chriſtian will nor ought to obey his Prince any farther, than it may be conſiſtent with his primary duty to God. And the Apoſtolical practice herein is a good comment upon the Doctrine. When ſome of the Apoſtles were commanded by the Sanhedrim of the Jews not to <hi>ſpeak at all, nor teach in the name of Jeſus,
+<note place="margin">Act. 4.19.</note> they gave this Anſwer, Whether it be right in the ſight of God to hearken unto you more than unto God, judge ye, for we cannot but ſpeak the things we have ſeen and heard.</hi> And afterward, when they charged them with neglect and diſregard of their commands, ſaying, <hi>did we not ſtraitly command you that you ſhould not teach in this name,
+<note place="margin">Act. 5.29.</note> and Behold you have fill'd Jeruſalem with your Doctrine, they anſwer'd and ſaid, We ought to obey God rather than men.</hi>
+            </p>
+            <p>The like to which had been done before by ſome holy men of God under the old Teſtament. When King <hi>Nebuchandnezzar</hi> had <hi>ſet up a Golden Image and had made a decree that every perſon under his Government ſhould fall down and worſhip it,
+<note place="margin">Dan. 3.18.</note> and that he that deny'd it, ſhould be caſt into the midſt of a burning fiery furnace; Shadrach, Meſhach and Abednego would not regard his Decree, and told him they would not ſerve his Gods, nor worſhip the Golden Image which he had ſet up.</hi>
+            </p>
+            <p>
+               <hi>And when King Darius had.
+<note place="margin">Dan. 6.7, 10.</note> Eſtabliſhed a Royal Sta<g ref="char:EOLhyphen"/>tute
+<pb n="19" facs="tcp:61111:12"/>that whoſoever ſhould ask a Perition of any God or Man for thirty days ſave of himſelf, he ſhould be caſt into a den of Lyons. The Prophet Daniel when he knew the King had ſign'd this writing went into his houſe, and his window being open in his chamber he kneeled upon his knees three times a day, and prayed, and gave thanks unto his God as he did aforetime.</hi>
+            </p>
+            <p>From all which it is evident, that the Commands of a King are obligatory to every Subject except where they cantradict the Commands of God; and then the Subject may lawfully deny the performance of them. But then he ought to be well ſatisfyed by ſerious and deliberate examination of the matter, that what he ſo refuſeth bears a real contrariety to the Commands of God: For a Conſcience, not thus rectify'd, cannot juſtifie any ſuch refuſal. Theſe Holy Men indeed now mention'd deny'd obedience to the commands of their Governours, but, <hi>Firſt,</hi> they were truly ſatisfied that in performing of them they ſhould directly vio<g ref="char:EOLhyphen"/>late the Laws of God.</p>
+            <p>And after all, if a man cannot with any ſatisfaction to his ſoul to give an <hi>Active Obedience</hi> to the Laws of his Prince, yet he muſt yield a <hi>Paſſive Obedience: i.e.</hi> if he cannot with a good Conſcience <hi>doe</hi> the Law he muſt quietly <hi>ſuffer the penalty</hi> of it; he muſt not re<g ref="char:EOLhyphen"/>fiſt his Prince with force or violence, but patiently ſubmit to the puniſhments he ſhall inflict upon him.</p>
+            <p>This is a Doctrine that is harſh to fleſh and bloud, and ſo indeed are moſt of the Doctrines of the Goſpel, but is as clearly the Chriſtian's duty as any other there revealed. St. <hi>Paul</hi> is as urgent for this <hi>Paſſive Obe<g ref="char:EOLhyphen"/>dience</hi> as for the <hi>Active</hi> in the verſe following the
+<pb n="20" facs="tcp:61111:13"/>Text. <hi>Whoſoever therefore,</hi> ſaith he, <hi>reſiſteth the power reſiſteth the Ordinance of God, and they that reſiſt ſhall receive to themſelves Damnation.</hi>
+            </p>
+            <p>And ſo is St. <hi>Peter</hi> in the words following thoſe afore-cited from him, <hi>Servants be ſubject to your Ma<g ref="char:EOLhyphen"/>ſters with all fear, not onely to the good and gentle, but alſo to the froward; for this is thankworthy if a man for Conſcience toward God endure Grief, ſuffering wrongfully. For what glory is it if when ye be buffeted for your faults ye ſhall take it patiently? But if when ye doe well, and ſuffer for it, ye take it patiently, this is acceptable with God.</hi> And then he propoſeth Chriſt as the great pattern and exemplar for it, <hi>For even hereunto were ye called becauſe Chriſt alſo ſuffered for us leaving us an example that we ſhould follow his ſteps, who did no ſin, neither was guile found in his mouth, who when he was reviled, reviled not again, when he ſuffer'd threatned not, but committed himſelf to him that judgeth righteouſly.</hi>
+            </p>
+            <p>And both St. <hi>Peter</hi> and St. <hi>Paul</hi> with all the other Apoſtles acted anſwerably to this Doctrine and their Maſter's example. This we are aſcertain'd from their <hi>Acts</hi> recorded by St. <hi>Luke,</hi> and from other Hiſtories of their Lives. The Governours of the Church that followed the Apoſtles in the firſt Centuries, and ſo had reaſon to underſtand <hi>their</hi> Doctrine beſt, exactly tranſcrib'd this Copy; publickly teaching and practi<g ref="char:EOLhyphen"/>ſing the ſame.
+<note place="margin">
+                  <hi>Euſeb.</hi> l. 3. <hi>c.</hi> 36. p. 108. <hi>ed S. Polycar. Ibid.</hi> l. 4. <hi>c.</hi> 15. p. 132. <hi>Cypr. ad De<g ref="char:EOLhyphen"/>metr. Ep.</hi> 83. §. 2.</note> All the weapons they uſed themſelves in deſence againſt the ſeverity of the Pagan Empe<g ref="char:EOLhyphen"/>rours, and all they taught to be uſed by every Chriſti<g ref="char:EOLhyphen"/>an were their Prayers, Faſting and Tears. And ſo it came to paſs that when Chriſtianity had gain'd ground on Heatheniſm and was ſo far advanc'd in the Em<g ref="char:EOLhyphen"/>pire
+<pb n="21" facs="tcp:61111:13"/>that the Chriſtians equall'd if not exceeded the Heathens in number and courage,
+<note place="margin">
+                  <hi>Tertul. Apol.</hi> c. 37. p. 30. <hi>Naz. in vec.</hi> 1. <hi>in Jul.</hi> p. 94.</note> they generally valued their Faith and Allegiance more than their lives, and choſe rather to open their Breaſts to the point of the Emperour's Sword,
+<note place="margin">
+                  <hi>Juſt. Mart.</hi> Apol. 2. <hi>
+                     <g ref="char:V">Ʋ</g>ſſer. ep. Ign.</hi> p. 9. <hi>Lactan. de Juſt. l.</hi> 5. <hi>c.</hi> 13. <hi>p.</hi> 495. <hi>Tertul. ad Scap. c.</hi> 1. <hi>p.</hi> 72.</note> than lift up their own againſt his. Their Perſecutors in the heat of their Cruelty ſaw this and confeſs'd it. And the Apologiſts for Chriſtanity rejoyc'd and glory'd in it, as one great cauſe of the propogation of their Religion. Agreeably to theſe firſt and pureſt Ages of Chriſtianity, the Church of <hi>England</hi> teacheth her Children not to reſiſt or rebell againſt their Prince.</p>
+            <p>This ſhe doeth very copiouſly and ſtrenuouſly in her Homily againſt Diſobedience and Rebellion ſet forth in the Reign of Q. <hi>Elizabeth.</hi> Which, becauſe ſhe doth ſo largely there inſiſt upon it, I ſhall rather chuſe to refer you to, for your better ſatisfaction, than mention any particulars from it.</p>
+            <p>It was neceſſary this Doctrine ſhould be vehement<g ref="char:EOLhyphen"/>ly preſs'd in the days of that Queen, becauſe there were then a company of men ſtarted up that began to corrupt and ridicule it,
+<note place="margin">
+                  <hi>Bell. de Rom. Pontif. l.</hi> 3. <hi>c.</hi> 9. <hi>&amp; l.</hi> 5. <hi>c.</hi> 7. <hi>Knox to Eng.</hi> and <hi>Scot. p.</hi> 78. <hi>Hiſt. p.</hi> 343. <hi>Buch. de jure Regn.</hi> p. 61. Bp. <hi>Bancroſt</hi> danger. Poſi<g ref="char:EOLhyphen"/>tions.</note> ſuch as <hi>Bellarmine</hi> the Ro<g ref="char:EOLhyphen"/>maniſt, the two Presbyterian <hi>Scots, Knox</hi> and <hi>Bucha<g ref="char:EOLhyphen"/>nan,</hi> and our firſt Nonconforming Divines; men, who as the Apoſtle ſaith of ſome other enemies of the Truth, could not but <hi>be willingly ignorant.</hi> But they had the Luceferian Ambition to be above all that are called Gods, to be Kings themſelves, and therefore had brazen'd their Foreheads and were reſolv'd to ſay any thing that would ſerve their deſigns in dethroning the Rightfull Sovereign. And indeed there is nothing in the World could doe it more effectually than this; for the Subject being once perſuaded of the Lawful<g ref="char:EOLhyphen"/>neſs
+<pb n="22" facs="tcp:61111:14"/>of Reſiſting his Prince, any little humour or paſſi<g ref="char:EOLhyphen"/>on, any private grudge or animoſity would be ſoon heated into open Rebellion. And ſo it follow'd; the viperous progeny of theſe men in after years improv'd and promoted their Fathers principles: They ſate brooding a while upon that Cocatrice's Egg; and then Rebellion and Regicide ſprang from it. The Malecontented people did actually rebel, and King <hi>Charles</hi> I. was murthered. And, not ſatisfied with that, the ſame men have with the ſame Trumpet of late ſounded another Alarm to Battel. And there<g ref="char:EOLhyphen"/>fore it is but neceſſary that the Clergy of the Church of <hi>England</hi> ſhould as loudly ſound a Retreat by proclaim<g ref="char:EOLhyphen"/>ing the duty of Nonreſiſtence and Paſſive Obedience. And it is their glory and their honour that they doe ſo, becauſe they are hereby true to God, the King and the Church.
+<note place="margin">Speech con<g ref="char:EOLhyphen"/>cerning Bill of Excluſion printed for <hi>Baldwin.</hi>
+               </note> Notwithſtanding ſome of the Ex<g ref="char:EOLhyphen"/>cluding Speech-makers caſt it into their Teeth as their ſhame and reproach. The ſhame be onely theirs that contrary to Oaths and proteſtations, throw dirt in the face of their Venerable Mother, and for no other reaſon malign their Spiritual Guides, but becauſe they tell them the Truth. That of St. <hi>Paul</hi> is very Applicable to them,
+<note place="margin">2 Tim. 3.8.</note> 
+               <hi>As Jannes and Jambres withſtood Moſes, ſo do theſe alſo reſiſt the Truth: men of corrupt minds, reprobate concerning the Faith, but they ſhall proceed no farther; for their folly ſhall be manifeſted unto all men as theirs alſo was.</hi>
+            </p>
+            <p>I will ſay no more than that the very Heathens will riſe up in judgment againſt the men of this leaven.
+<note place="margin">
+                  <hi>Tac. Hiſt.</hi> l. 4. c. 8.</note> For, <hi>Marcellus</hi> told the Romans that Subjects might wiſh for good Princes but ought <hi>to bear with any.</hi> And <hi>Pliny,</hi> That as mem are Reverent in their
+<pb n="23" facs="tcp:61111:14"/>behaviour when they converſe with God,
+<note place="margin">Praef. ad Ad<g ref="char:EOLhyphen"/>miran. Rom.</note> 
+               <hi>ſo ought</hi> they to be in their <hi>deportment</hi> to their <hi>King.</hi> And as the Supreme part of the World is above the diſturbance of the lower Regions ſo the <hi>Courts of Princes</hi> are not to be <hi>profan'd</hi> with the <hi>rude approaches</hi> of their peo<g ref="char:EOLhyphen"/>ple.
+<note place="margin">L. 2. <hi>exem. Po.</hi> c. 16.</note> So Sacred and revereable was the Perſon of a King among the Antient Heathens, by the mere light of natural Religion.</p>
+            <p>After all this ſome perhaps may Quaere in particular, What if Our King ſhould actually endeavour to deſtroy the Religion that is now by Law Eſtabliſh'd, or puniſh us for the open profeſſion of it, might we not then Lawfully take up Arms, and liſt up our hands againſt him in defence of Religion? To this I cannot an<g ref="char:EOLhyphen"/>ſwer better than in the words of the Learned Dean of <hi>Canterbury, viz.</hi>
+               <note place="margin">Letter to late Lord <hi>Ruſſel.</hi>
+               </note>
+               <q>That the Chriſtian Religion doth plainly forbid the reſiſtence of Authority; That though our Religion be Eſtabliſhed by Law, yet in the ſame Law that Eſtabliſhed our Religion, it is declared that it is not lawfull upon any pre<g ref="char:EOLhyphen"/>tence whatſoever to take up Arms againſt the King. <hi>Beſides that, there is a particular Law declaring the power of the Militia to be ſoley in the King; and that tyes the hands of Subjects though the Law of Nature and the General Rules of Scripture had left us at liberty, which I believe they doe not, becauſe the Government and peace of Humane Society could not well ſubſiſt upon thoſe Terms.</hi>
+               </q>
+            </p>
+            <p>Thus the Queſtion is reſolved by that Reverned Perſon. But (bleſſed be God) there is no reaſon to ask this Queſtion, calculated onely for the Meridian of a bloudy Antichriſtian Covenant, or Aſſociation. It is a Queſtion as unſeaſonable now, as it is at all
+<pb n="24" facs="tcp:61111:15"/>times improper for a Diſciple of the Son of God, who never needs the Arm of fleſh to defend his cauſe. But, becauſe the evil of puniſhment is uſually the ſureſt conviction of the evil of ſin, to ſatisfie you fully of the wickedneſs of Treaſon and Rebellion upon all Accounts whatſoever, I ſhall here take leave to ob<g ref="char:EOLhyphen"/>ſerve a while their direfull and tremendous conſequen<g ref="char:EOLhyphen"/>ces, or the ſignal puniſhments that have attended them, recorded both in ſacred and civil Story for our Admonition.</p>
+            <p>Many of the Inſtances of ſacred Story are collected to our hands by Sir <hi>Edw.
+<note place="margin">Short View of late Troub. p. 650.</note> Coke.</hi> And I will give you them in that order as they are lately recited from him by Sir <hi>William Dugdale.</hi>
+            </p>
+            <p>
+               <q>It appears, ſaith he, in the Holy Scriptures that Traitours never proſpered, what good ſoever they pretended, but were moſt ſeverely and exemplarily puniſhed,</q> as <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> by miracle, <hi>The ground clave aſunder that was under them,
+<note place="margin">Num. 16.31, 32.27.3.</note> and the earth opened her mouth, and ſwallowed them up, and their houſes and all the men that appertained unto Corah, and all their goods; they and all that apper<g ref="char:EOLhyphen"/>tained to them went down alive into the Pit; and the earth cloſed upon them and they periſhed from among the Congregation.</hi>
+            </p>
+            <p>Athaliah <hi>the Daughter of</hi> Amri <hi>who Maſſacred all the ſeed Royal of</hi> Judah <hi>except,
+<note place="margin">2 Kin. 11.16.</note> one Infant which was conceal'd from her, and ſo for ſeven years uſurp'd the Crown, was at length ſlain by the ſword.</hi>
+            </p>
+            <p>Bigthan <hi>and</hi> Teriſh,
+<note place="margin">Eſth. 2.23.</note> 
+               <hi>who ſought to lay hands on King</hi> Ahaſuerus, <hi>were both hanged on a Tree.</hi>
+            </p>
+            <p>Abſalom,
+<note place="margin">2 Sam. 18.9.14.</note> 
+               <hi>in Rebellion againſt his Father</hi> David, <hi>was hanged in an Oak, and</hi> Joab <hi>took three darts in his
+<pb n="25" facs="tcp:61111:15"/>hand and thruſt them through the heart of</hi> Abſalom <hi>while he was yet alive in the midſt of the Oak.</hi>
+            </p>
+            <p>Achitophel <hi>the promoter of that Rebellion hanged himſelf and died.</hi>
+               <note place="margin">2 Sam. 17.23.</note>
+            </p>
+            <p>Abiathar <hi>the High Prieſt,
+<note place="margin">1 King. 2.26, 27.</note> who had been Traiterous againſt King</hi> Solomon, <hi>was thruſt out from being Prieſt un<g ref="char:EOLhyphen"/>to the Lord; though he had his life indeed granted him becauſe he had bore the Ark before</hi> David <hi>and had been afflicted in all wherein</hi> David <hi>was afflicted.</hi>
+            </p>
+            <p>Shimei, who <hi>had curs'd and caſt ſtones at</hi> David,
+<note place="margin">1 King. 2.46.</note> 
+               <hi>was ſlain at laſt by the hands of</hi> Benaiah, <hi>at the command of</hi> Solomon.</p>
+            <p>Zimri,
+<note place="margin">1 King. 16.18.</note> 
+               <hi>that kill'd</hi> Elah <hi>his King and Maſter and all the Houſe of</hi> Baaſha, <hi>that he might Reign ſecurely, after ſeven days Reign, to ſave himſelf from the hands of</hi> Omri <hi>was forced to burn the Palace over his own head and there periſh'd in the flames.</hi>
+            </p>
+            <p>Theudas <hi>a Mutineer in</hi> Iſrael,
+<note place="margin">Act. 5.36, 37.</note> 
+               <hi>boaſting himſelf to be ſome body, to whom a number of men about four hundred joyned themſelves, was ſlain, and all as many as obeyed him were ſcattered and brought to nought.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Judas <hi>of</hi> Galilee, <hi>who roſe up after him in the days of Taxing, and drew away much people after him, he alſo periſhed, and all even as many as obeyed him were diſperſed.</hi>
+            </p>
+            <p>Theſe examples we have in ſacred Scripture of the diſaſtrous events which have attended Rebels and Re<g ref="char:EOLhyphen"/>gicides. Other Hiſtory is as full of them. For as men of ſuch profligate ſpirits have never been wanting in the World, ſo God hath never been wanting to make examples of them.</p>
+            <p>The Plotters and Actours of the Aſſaſſination of <hi>Julius Caeſar,</hi>
+               <note place="margin">
+                  <hi>Sueton. vit</hi> Juli Caeſar.</note> though they eſcap'd the legal puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="26" facs="tcp:61111:16"/>which the Senate condemn'd them to, yet, be<g ref="char:EOLhyphen"/>ing purſued by Divine <hi>Nemeſis,</hi> died all immature and unnatural deaths; ſome of them ſtabbing themſelves with the ſame Dagger they had ſtab'd <hi>Caeſar.</hi>
+            </p>
+            <p>Pope <hi>Gregory</hi> VII.
+<note place="margin">
+                  <hi>Otho Friſing. Chr.</hi> l. 6. c. 35.</note> (the firſt Pope that took the im<g ref="char:EOLhyphen"/>pudence to excommunicate and depoſe Kings) having ſtirr'd up the Princes of <hi>Germany</hi> againſt the Emperour <hi>Henry</hi> IV. and by them endeavouring his utter Ruine, was, during the Conteſt, by the conſent of his own people, turn'd out of the Papacy, and at length by a ſenſe of his own miſeries, upon his death-bed forced to confeſs and lament his crime,
+<note place="margin">
+                  <hi>Sigeb. Ann.</hi> 1084.</note> imputing it to the inſtigation of the Devil. This we may believe from the Relation which <hi>Sigebert</hi> gives of it,
+<note place="margin">
+                  <hi>Ibid. Ann.</hi> 1085.</note> who lived at that time, though <hi>Bellarmin</hi> many years after charges him with a lie,
+<note place="margin">
+                  <hi>Bell. de Scrp. Eccl.</hi> p. 215.</note> for no other reaſon but becauſe he was Loyal to the Emperour.</p>
+            <p>
+               <hi>Radolph</hi> Duke of <hi>Suevia,</hi>
+               <note place="margin">
+                  <hi>Veſpergens. Ann.</hi> 1080.</note> the great inſtrument of that Pope in the War againſt the Emperour, loſt his Right Hand, and received ſome other mortal wounds, of which being ready to die, he bitterly bewail'd his wickedneſs, and, ſighing, obſerv'd to the by-ſtanders, that he had loſt that Hand in the Rebellion againſt his Sovereign, with which he had ſworn Allegiance to him.</p>
+            <p>I might produce many other inſtances from Foreign Hiſtories, but I chuſe here to divert to a few Obſer<g ref="char:EOLhyphen"/>vations, which the aforeſaid <hi>Engliſh</hi> Authour makes upon ſome Traitours of our own Countrey, becauſe they probably will the moſt affect you.</p>
+            <p>
+               <q>Montfort <hi>Earl of</hi> Leiceſter <hi>(ſaith he) the principal Actour in the great Rebellion againſt</hi> Henry <hi>III.
+<note place="margin">Short View of late the Trou. p. 599.</note> with his Eldeſt Son</hi> Henry <hi>was ſlain at the Fight
+<pb n="27" facs="tcp:61111:16"/>near</hi> Eveſham; <hi>his head, hands and feet were cut off by the fury of the Souldiers; and though his body through the charity of others was buried in the Ab<g ref="char:EOLhyphen"/>bey, the common people, out of high indignation towards him, who had been the chief inſtrument of miſery to the whole Realm, dig'd it up and carried it to a more remote place, eſteeming it unworthy of Chriſtan Burial by reaſon it had been ſo much infected with the Leproſie of Rebellion. Neither did the judgment for his iniquities terminate here but purſued his two other Sons</hi> Guy <hi>and</hi> Simon, <hi>who being eſcap'd out of Priſon got into</hi> France, <hi>and there, endeavouring to bring in Foreign Forces, ended their days in miſery.</hi> As for his Complices, moſt of them periſhed in that Battel at <hi>Eveſham;</hi> and the reſt, excepting one, were taken priſoners and diſherited. But afterwards through the King's ſpecial favour reſtored to their Lands upon ſeveral Fines according to the meaſure of their offences.</q>
+            </p>
+            <p>And that which he relateth alſo of <hi>Oliver Cromwell,</hi> that Arch-Traitour againſt <hi>Charles</hi> I. is as remarkably judicial.</p>
+            <q>
+               <p>Immediately upon <hi>Cromwell</hi>'s Murthering the Reverend Dr. <hi>Huit,</hi>
+                  <note place="margin">p. 456.</note> his Beloved Daughter <hi>Claypole</hi> was perplext with ſuch an exceſſive Grief of mind that falling into a ſharp fit of ſickneſs, wherein crying out againſt her Father for Dr. <hi>Huit</hi>'s death, ſhe died with the moſt bitter torments imaginable. Which death of hers was the forerunner to that of this wicked Tyrants, for ſoon after a deep melancholy ſeized cloſely upon him; in which the Guilt of ſo much innocent Bloud as he had ſpilt might perhaps ſomewhat touch him; but without doubt, that
+<pb n="28" facs="tcp:61111:17"/>which ſtuck neareſt to him, was his real conſidera<g ref="char:EOLhyphen"/>tion that he could never aſcend to ſuch a height of Sovereignty, as his ambitious deſires had long ga<g ref="char:EOLhyphen"/>ped after. And theſe ſorrows and perplexities of his reſtleſs mind, meeting with ſome natural infir<g ref="char:EOLhyphen"/>mities of his Body, ſtruck him into a ſharp and ſeveriſh diſtemper, of which in a few days (not<g ref="char:EOLhyphen"/>withſtanding his own and his Chaplins Revelations to the contrary) he died in great diſcompoſure, upon the ſame day of the month whereon he had been twice wonderfully victorious.</p>
+               <p>After his death, his Carcaſe, though it was arti<g ref="char:EOLhyphen"/>ficially embowelled and embalmed with Aromatick Odours, wrapt alſo in ſix-fold Cerecloth, and put in a ſheet of Lead with a ſtrong wooden Coffin over it, yet did it in a ſhort time ſo ſtrangely ferment, that it burſt all in pieces, and became ſo noiſome, that they were immediately neceſſitated to commit it to the Earth, and to celebrate his Funeral with an empty Coffin.</p>
+            </q>
+            <p>And here I cannot but add that his memory will ever ſtink as did his Body, both equally loathſome and abominable to all Good Men. (Wretch that he was, who, to perfect the ſum of all his Villanies, ad<g ref="char:EOLhyphen"/>ded this as the laſt Figure, that when he had ſolemnly proteſted to take care for the ſafety and welfare of his Prince, he brought him to the Block, and ſtruck off his Head before his own Royal Palace in the face of the Sun and the People, and even then wip'd his mouth and ſaid he had done no wickedneſs.) But neither yet had the Divine Vengeance left him: For al<g ref="char:EOLhyphen"/>though he had at his <hi>death</hi> uſurp'd the <hi>Sepulchre,</hi> as in his <hi>life</hi> the <hi>Throne</hi> of a King, yet he was not ſuffered
+<pb n="29" facs="tcp:61111:17"/>to remain there in peace, or to mix with Royal Duſt, but not long after his Interrment, was dig'd up and drawn thence on a hurdle to <hi>Tyburn,</hi> the place which he did beſt deſerve and become; where he hung ſtinking in his corruptions with as much Shame and Infamy as before he had lain in State and Grandeur, a reproach to all proſperous wickedneſs, and a ſcare<g ref="char:EOLhyphen"/>crow to Rebellion.</p>
+            <p>And this reminds us alſo of the inglorious ends of many of his Fellow-Trytours, who died about that time by the hand of the Common Hangman; and whoſe Head and Quarters are yet ſtanding upon the Bridge or other places of our Metropolis, as laſting monuments of their villany.</p>
+            <p>And happy had it been for ſome of later date, if theſe or any other examples could have given them warning, thoſe late Rebells againſt King <hi>Charles</hi> II. many of whom we all know have had the ſame Fate with their predeceſſours, to ſuffer the legal puniſh<g ref="char:EOLhyphen"/>ment due to their crimes. And one of them to avoid the Hand of <hi>publick</hi> Juſtice, as <hi>Achitophel</hi> and <hi>Zimri,</hi> fell by his <hi>own,</hi> became his own ſhamefull Executi<g ref="char:EOLhyphen"/>oner.</p>
+            <p>Thus you have ſeen, from the beginning of the World to our own Age, the Actours of Rebellion and Treaſon exemplarly puniſhed. But I deny not that there have been of old and yet are ſome Rebels and Traitours that go to their Graves in peace like other men dying natural and eaſie deaths. Yet this ought not to be any plea for or encouragement to their wickedneſs; becauſe we ſee God hath given ex<g ref="char:EOLhyphen"/>ample enough to the contrary <hi>in terrorem</hi> to affright others from it: And however it be as to this preſent
+<pb n="30" facs="tcp:61111:18"/>World, we are aſcertain'd he hath awarded everla<g ref="char:EOLhyphen"/>ſting puniſhment to it in the next. So we hear from St.
+<note place="margin">See Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond</hi>'s Ann. on that place.</note> 
+               <hi>Paul</hi> in the verſe following the Text, <hi>They that reſiſt ſhall receive to themſelves Damnation.</hi>
+            </p>
+            <p>Which in its utmoſt extent muſt neceſſarily mean that they who by force or violence do oppoſe their Lawfull Sovereign in this Life, ſhall after this Life ended, be condemn'd eternally to ſuffer the Torments of Hell.</p>
+            <p>
+               <hi>Verily there is a God that judgeth in the Earth:</hi> And though ſome of his Acts of Providence are here unſearcheable and paſt finding out by the ſhort Line of Man's finite underſtanding, yet in the next Life he will abundantly convince the World that he <hi>will doe right,
+<note place="margin">Pſal. 58.11.</note> that he will,</hi> as he hath ſaid, <hi>render to every man according to his deeds. To them, who, by patient continuance in well-doing, ſeek for Glory and Honour and Immortality;
+<note place="margin">Rom. 2.6, 7, 8, 9.</note> eternal Life. But unto them that are contentious, and do not obey the Truth but obey unrighteouſneſs, indignation and wrath; tri<g ref="char:EOLhyphen"/>bulation and anguiſh upon every ſoul of man that doeth evil.</hi>
+            </p>
+            <p>Therefore (Sirs) if you have any regard to the Commands of God, if you have any regard to your Temporal and Eternal Happineſs, never reſiſt the Lord's Anointed, never privately plot, or publickly fight againſt your King.</p>
+            <p>It is to be feared that our preſent Sovereign will have the ſame enemies all his Anceſtours had ſince the Reformation, I mean the Fanatical part of the Nation, who have been all along declar'd enemies to the Mo<g ref="char:EOLhyphen"/>narchy and the Church. The <hi>Jeſuits</hi> (thoſe creatures of <hi>Ignatius Loyola</hi> that were created on purpoſe to
+<pb n="31" facs="tcp:61111:18"/>embroil and deſtroy every Reform'd Regal and Eccle<g ref="char:EOLhyphen"/>fiaſtical Government, and are accordingly ſworn to it) firſt inſtill'd their Antimonarchical and Schiſma<g ref="char:EOLhyphen"/>tical principles into them; and ſtill, under the diſguiſe of holy and ſanctified Brethren, and fine pretences of Gifts of Prayer and Gifts of Preaching, and the like intoxicating whedles, they nouriſh and maintain the ſame. And while they are willing to be deceiv'd and run into Conventicles, where theſe poiſons are infus'd, notwithſtanding the many Warnings they have had from the faithfull Miniſters of our Church in printed Sermons and other Treatiſes, what hope can we have of better things from them?</p>
+            <p>But be not you of them; partake not with them in their ſins leaſt you partake with them in their pu<g ref="char:EOLhyphen"/>niſhments. Remember always and follow that pertinent Advice of St. <hi>Paul,
+<note place="margin">Rom. 16.17.</note> Mark them which cauſe Diviſions and Offences, contrary to the Doctrine which you have learned, and avoid them.</hi>
+            </p>
+            <p>And that of <hi>Solomon,
+<note place="margin">Prov. 24.24.</note> My Son fear thou the Lord and the King, and meddle not with them that are given to change.</hi>
+            </p>
+            <p>Finally, be ever ready to aid and aſſiſt the King againſt all his enemies whatſoever, to the utmoſt of your powers and capacities. And be ever praying for him, that Al<g ref="char:EOLhyphen"/>mighty God would ſecure his Sacred Perſon from the ſecret conſpiracies and the violent outrages of ſeditious bloud-thirſty-men, that he would ſtrengthen his Arm and render him perpetually able to make good his moſt gratious Promiſe to preſerve the Government both in Church and State as 'tis now by Law Eſta<g ref="char:EOLhyphen"/>bliſhed.</p>
+            <p>
+               <pb n="32" facs="tcp:61111:19"/>
+               <hi>Grant this (O Lord) for the ſake of thy Bleſſed Son, by the powerfull Operation of thy Holy Spirit. To whom be aſcribed for ever all Power and Dominion.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61111:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
